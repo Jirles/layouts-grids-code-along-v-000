@@ -2,6 +2,10 @@
 
 We're really exited that you're about to contribute to the [open curriculum](https://learn.co/content-license) on [Learn.co](https://learn.co). If this is your first time contributing, please continue reading to learn how to make the most meaningful and useful impact possible.
 
+## My change
+
+I'm not sure what the point of this lab is... there's no files and this entire README talks about contributing to the Learn.co curriculum. Doesn't really seem related to Bootstrap Layout Grids at all.
+
 ## Raising an Issue to Encourage a Contribution
 
 If you notice a problem with the curriculum that you believe needs improvement
